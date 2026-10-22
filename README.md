@@ -18,18 +18,6 @@
 
 手机建议使用下文的 GitHub Pages 网址。部分手机文件管理器只预览本地 HTML，不执行脚本；这种情况下请用浏览器打开部署后的网址。网站针对窄屏做了适配。
 
-## 上传 GitHub，让其他人通过网址访问
-
-1. 在自己的 GitHub 账号中新建一个 **Public** 仓库，例如 `xinzhi-semiconductor`。
-2. 上传本目录内的文件与文件夹，确保 `index.html` 在仓库根目录，而不是再嵌套一层文件夹。通过 Git 上传会同时保留 `.nojekyll` 与 `.gitignore`。
-3. 进入仓库 **Settings → Pages**。
-4. 在 **Build and deployment → Source** 选择 **GitHub Actions**。仓库已包含 `.github/workflows/pages.yml`，会在推送 `main` 时自动校验和发布。
-5. 在 **Actions → Publish learning site → Run workflow** 手动启动首次发布（或向 `main` 推送一次提交），等整个工作流成功后，使用 Pages 页面给出的实际网址。典型形式为 `https://你的用户名.github.io/仓库名/`。
-
-访问公开的 Pages 网页不需要 GitHub 或 ChatGPT 账号。创建仓库和设置部署需要你自己的 GitHub 账号。单纯上传代码不会自动开通 Pages，仓库的文件预览也不会直接运行网页。
-
-官方步骤：[GitHub Pages 发布源设置](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)。
-
 ## 学习记录与隐私
 
 - 答题、错题和完成状态保存在当前浏览器的 `localStorage`，没有账号系统、云端数据库或自动同步。
