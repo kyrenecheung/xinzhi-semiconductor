@@ -23,8 +23,8 @@
 1. 在自己的 GitHub 账号中新建一个 **Public** 仓库，例如 `xinzhi-semiconductor`。
 2. 上传本目录内的文件与文件夹，确保 `index.html` 在仓库根目录，而不是再嵌套一层文件夹。通过 Git 上传会同时保留 `.nojekyll` 与 `.gitignore`。
 3. 进入仓库 **Settings → Pages**。
-4. 在 **Build and deployment → Source** 选择 **Deploy from a branch**，分支选实际默认分支（通常是 `main`），目录选 **/(root)**，然后 **Save**。
-5. 等待部署成功，使用 Pages 页面给出的实际网址。典型形式为 `https://你的用户名.github.io/仓库名/`。
+4. 在 **Build and deployment → Source** 选择 **GitHub Actions**。仓库已包含 `.github/workflows/pages.yml`，会在推送 `main` 时自动校验和发布。
+5. 在 **Actions → Publish learning site → Run workflow** 手动启动首次发布（或向 `main` 推送一次提交），等整个工作流成功后，使用 Pages 页面给出的实际网址。典型形式为 `https://你的用户名.github.io/仓库名/`。
 
 访问公开的 Pages 网页不需要 GitHub 或 ChatGPT 账号。创建仓库和设置部署需要你自己的 GitHub 账号。单纯上传代码不会自动开通 Pages，仓库的文件预览也不会直接运行网页。
 
