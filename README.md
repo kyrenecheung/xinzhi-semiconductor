@@ -2,6 +2,8 @@
 
 面向零基础学习者的中文半导体课程。免费开放，无需登录、API Key、后端服务或安装依赖。
 
+**[在线学习](https://kyrenecheung.github.io/xinzhi-semiconductor/)** · **[下载完整源码 ZIP](https://github.com/kyrenecheung/xinzhi-semiconductor/archive/refs/heads/main.zip)**
+
 32 节课程、64 个分步例题、83 组公式卡、285 道选择题（含 97 道多选），覆盖基础物理、材料与环境、制造工艺、测量、良率与可靠性。包含错题复习、综合测验、公式搜索和 6 个交互模型。
 
 ## 直接使用
