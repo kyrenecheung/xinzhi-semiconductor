@@ -1,0 +1,3268 @@
+[
+  {
+    "id": "quirk",
+    "pdf_pages": 611,
+    "toc": [
+      {
+        "level": 1,
+        "title": "封面",
+        "pdf_page": 1
+      },
+      {
+        "level": 1,
+        "title": "书名",
+        "pdf_page": 3
+      },
+      {
+        "level": 1,
+        "title": "版权",
+        "pdf_page": 4
+      },
+      {
+        "level": 1,
+        "title": "前言",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "目录",
+        "pdf_page": 6
+      },
+      {
+        "level": 1,
+        "title": "第1章 半导体产业介绍",
+        "pdf_page": 12,
+        "printed_page": 1
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 12,
+        "printed_page": 1
+      },
+      {
+        "level": 2,
+        "title": "1.1 引言",
+        "pdf_page": 12,
+        "printed_page": 1
+      },
+      {
+        "level": 2,
+        "title": "1.2 产业的发展",
+        "pdf_page": 13,
+        "printed_page": 2
+      },
+      {
+        "level": 2,
+        "title": "1.3 电路集成",
+        "pdf_page": 14,
+        "printed_page": 3
+      },
+      {
+        "level": 2,
+        "title": "1.4 集成电路制造",
+        "pdf_page": 15,
+        "printed_page": 4
+      },
+      {
+        "level": 2,
+        "title": "1.5 半导体趋势",
+        "pdf_page": 19,
+        "printed_page": 8
+      },
+      {
+        "level": 2,
+        "title": "1.6 电子时代",
+        "pdf_page": 23,
+        "printed_page": 12
+      },
+      {
+        "level": 2,
+        "title": "1.7 在半导体制造业中的职业",
+        "pdf_page": 25,
+        "printed_page": 14
+      },
+      {
+        "level": 2,
+        "title": "1.8 小结",
+        "pdf_page": 28,
+        "printed_page": 17
+      },
+      {
+        "level": 1,
+        "title": "第2章 半导体材料特性",
+        "pdf_page": 31,
+        "printed_page": 20
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 31,
+        "printed_page": 20
+      },
+      {
+        "level": 2,
+        "title": "2.1 引言",
+        "pdf_page": 31,
+        "printed_page": 20
+      },
+      {
+        "level": 2,
+        "title": "2.2 原子结构",
+        "pdf_page": 31,
+        "printed_page": 20
+      },
+      {
+        "level": 2,
+        "title": "2.3 周期表",
+        "pdf_page": 34,
+        "printed_page": 23
+      },
+      {
+        "level": 2,
+        "title": "2.4 材料分类",
+        "pdf_page": 38,
+        "printed_page": 27
+      },
+      {
+        "level": 2,
+        "title": "2.5 硅",
+        "pdf_page": 42,
+        "printed_page": 31
+      },
+      {
+        "level": 2,
+        "title": "2.6 可选择的半导体材料",
+        "pdf_page": 48,
+        "printed_page": 37
+      },
+      {
+        "level": 2,
+        "title": "2.7 小结",
+        "pdf_page": 49,
+        "printed_page": 38
+      },
+      {
+        "level": 1,
+        "title": "第3章 器件技术",
+        "pdf_page": 52,
+        "printed_page": 41
+      },
+      {
+        "level": 2,
+        "title": "3.1 引言",
+        "pdf_page": 52,
+        "printed_page": 41
+      },
+      {
+        "level": 2,
+        "title": "3.2 电路类型",
+        "pdf_page": 53,
+        "printed_page": 42
+      },
+      {
+        "level": 2,
+        "title": "3.3 无源元件结构",
+        "pdf_page": 53,
+        "printed_page": 42
+      },
+      {
+        "level": 2,
+        "title": "3.4 有源元件结构",
+        "pdf_page": 55,
+        "printed_page": 44
+      },
+      {
+        "level": 2,
+        "title": "3.5 CMOS器件的闩锁效应",
+        "pdf_page": 67,
+        "printed_page": 56
+      },
+      {
+        "level": 2,
+        "title": "3.6 集成电路产品",
+        "pdf_page": 67,
+        "printed_page": 56
+      },
+      {
+        "level": 2,
+        "title": "3.7 小结",
+        "pdf_page": 69,
+        "printed_page": 58
+      },
+      {
+        "level": 1,
+        "title": "第4章 硅和硅片制备",
+        "pdf_page": 75,
+        "printed_page": 64
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 75,
+        "printed_page": 64
+      },
+      {
+        "level": 2,
+        "title": "4.1 引言",
+        "pdf_page": 75,
+        "printed_page": 64
+      },
+      {
+        "level": 2,
+        "title": "4.2 半导体级硅",
+        "pdf_page": 75,
+        "printed_page": 64
+      },
+      {
+        "level": 2,
+        "title": "4.3 晶体结构",
+        "pdf_page": 76,
+        "printed_page": 65
+      },
+      {
+        "level": 2,
+        "title": "4.4 晶向",
+        "pdf_page": 78,
+        "printed_page": 67
+      },
+      {
+        "level": 2,
+        "title": "4.5 单晶硅生长",
+        "pdf_page": 79,
+        "printed_page": 68
+      },
+      {
+        "level": 2,
+        "title": "4.6 硅中的晶体缺陷",
+        "pdf_page": 84,
+        "printed_page": 73
+      },
+      {
+        "level": 2,
+        "title": "4.7 硅片制备",
+        "pdf_page": 86,
+        "printed_page": 75
+      },
+      {
+        "level": 2,
+        "title": "4.8 质量测量",
+        "pdf_page": 90,
+        "printed_page": 79
+      },
+      {
+        "level": 2,
+        "title": "4.9 外延层",
+        "pdf_page": 93,
+        "printed_page": 82
+      },
+      {
+        "level": 2,
+        "title": "4.10 小结",
+        "pdf_page": 93,
+        "printed_page": 82
+      },
+      {
+        "level": 1,
+        "title": "第5章 半导体制造中的化学品",
+        "pdf_page": 98,
+        "printed_page": 87
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 98,
+        "printed_page": 87
+      },
+      {
+        "level": 2,
+        "title": "5.1 引言",
+        "pdf_page": 98,
+        "printed_page": 87
+      },
+      {
+        "level": 2,
+        "title": "5.2 物质形态",
+        "pdf_page": 98,
+        "printed_page": 87
+      },
+      {
+        "level": 2,
+        "title": "5.3 材料的属性",
+        "pdf_page": 99,
+        "printed_page": 88
+      },
+      {
+        "level": 2,
+        "title": "5.4 工艺用化学品",
+        "pdf_page": 105,
+        "printed_page": 94
+      },
+      {
+        "level": 2,
+        "title": "5.5 小结",
+        "pdf_page": 113,
+        "printed_page": 102
+      },
+      {
+        "level": 1,
+        "title": "第6章 硅片制造中的沾污控制",
+        "pdf_page": 117,
+        "printed_page": 106
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 117,
+        "printed_page": 106
+      },
+      {
+        "level": 2,
+        "title": "6.1 引言",
+        "pdf_page": 117,
+        "printed_page": 106
+      },
+      {
+        "level": 2,
+        "title": "6.2 沾污的类型",
+        "pdf_page": 118,
+        "printed_page": 107
+      },
+      {
+        "level": 2,
+        "title": "6.3 沾污的源与控制",
+        "pdf_page": 123,
+        "printed_page": 112
+      },
+      {
+        "level": 2,
+        "title": "6.4 硅片湿法清洗",
+        "pdf_page": 136,
+        "printed_page": 125
+      },
+      {
+        "level": 2,
+        "title": "6.5 小结",
+        "pdf_page": 143,
+        "printed_page": 132
+      },
+      {
+        "level": 1,
+        "title": "第7章 测量学和缺陷检查",
+        "pdf_page": 151,
+        "printed_page": 140
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 151,
+        "printed_page": 140
+      },
+      {
+        "level": 2,
+        "title": "7.1 引言",
+        "pdf_page": 151,
+        "printed_page": 140
+      },
+      {
+        "level": 2,
+        "title": "7.2 集成电路测量学",
+        "pdf_page": 151,
+        "printed_page": 140
+      },
+      {
+        "level": 2,
+        "title": "7.3 质量测量",
+        "pdf_page": 153,
+        "printed_page": 142
+      },
+      {
+        "level": 2,
+        "title": "7.4 分析设备",
+        "pdf_page": 171,
+        "printed_page": 160
+      },
+      {
+        "level": 2,
+        "title": "7.5 小结",
+        "pdf_page": 177,
+        "printed_page": 166
+      },
+      {
+        "level": 1,
+        "title": "第8章 工艺腔内的气体控制",
+        "pdf_page": 182,
+        "printed_page": 171
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 182,
+        "printed_page": 171
+      },
+      {
+        "level": 2,
+        "title": "8.1 引言",
+        "pdf_page": 182,
+        "printed_page": 171
+      },
+      {
+        "level": 2,
+        "title": "8.2 真空",
+        "pdf_page": 183,
+        "printed_page": 172
+      },
+      {
+        "level": 2,
+        "title": "8.3 真空泵",
+        "pdf_page": 185,
+        "printed_page": 174
+      },
+      {
+        "level": 2,
+        "title": "8.4 工艺腔内的气流",
+        "pdf_page": 189,
+        "printed_page": 178
+      },
+      {
+        "level": 2,
+        "title": "8.5 残气分析器",
+        "pdf_page": 190,
+        "printed_page": 179
+      },
+      {
+        "level": 2,
+        "title": "8.6 等离子体",
+        "pdf_page": 192,
+        "printed_page": 181
+      },
+      {
+        "level": 2,
+        "title": "8.7 工艺腔的沾污",
+        "pdf_page": 194,
+        "printed_page": 183
+      },
+      {
+        "level": 2,
+        "title": "8.8 小结",
+        "pdf_page": 195,
+        "printed_page": 184
+      },
+      {
+        "level": 1,
+        "title": "第9章 集成电路制造工艺概况",
+        "pdf_page": 198,
+        "printed_page": 187
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 198,
+        "printed_page": 187
+      },
+      {
+        "level": 2,
+        "title": "9.1 引言",
+        "pdf_page": 198,
+        "printed_page": 187
+      },
+      {
+        "level": 2,
+        "title": "9.2 CMOS工艺流程",
+        "pdf_page": 198,
+        "printed_page": 187
+      },
+      {
+        "level": 2,
+        "title": "9.3 CMOS制作步骤",
+        "pdf_page": 203,
+        "printed_page": 192
+      },
+      {
+        "level": 2,
+        "title": "9.4 小结",
+        "pdf_page": 218,
+        "printed_page": 207
+      },
+      {
+        "level": 1,
+        "title": "第10章 氧化",
+        "pdf_page": 221,
+        "printed_page": 210
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 221,
+        "printed_page": 210
+      },
+      {
+        "level": 2,
+        "title": "10.1 引言",
+        "pdf_page": 221,
+        "printed_page": 210
+      },
+      {
+        "level": 2,
+        "title": "10.2 氧化膜",
+        "pdf_page": 222,
+        "printed_page": 211
+      },
+      {
+        "level": 2,
+        "title": "10.3 热氧化生长",
+        "pdf_page": 225,
+        "printed_page": 214
+      },
+      {
+        "level": 2,
+        "title": "10.4 高温炉设备",
+        "pdf_page": 233,
+        "printed_page": 222
+      },
+      {
+        "level": 2,
+        "title": "10.5 卧式与立式炉",
+        "pdf_page": 234,
+        "printed_page": 223
+      },
+      {
+        "level": 2,
+        "title": "10.6 氧化工艺",
+        "pdf_page": 241,
+        "printed_page": 230
+      },
+      {
+        "level": 2,
+        "title": "10.7 质量测量",
+        "pdf_page": 243,
+        "printed_page": 232
+      },
+      {
+        "level": 2,
+        "title": "10.8 氧化检查及故障排除",
+        "pdf_page": 243,
+        "printed_page": 232
+      },
+      {
+        "level": 2,
+        "title": "10.9 小结",
+        "pdf_page": 244,
+        "printed_page": 233
+      },
+      {
+        "level": 1,
+        "title": "第11章 淀积",
+        "pdf_page": 250,
+        "printed_page": 239
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 250,
+        "printed_page": 239
+      },
+      {
+        "level": 2,
+        "title": "11.1 引言",
+        "pdf_page": 250,
+        "printed_page": 239
+      },
+      {
+        "level": 2,
+        "title": "11.2 膜淀积",
+        "pdf_page": 253,
+        "printed_page": 242
+      },
+      {
+        "level": 2,
+        "title": "11.3 化学气相淀积",
+        "pdf_page": 257,
+        "printed_page": 246
+      },
+      {
+        "level": 2,
+        "title": "11.4 CVD淀积系统",
+        "pdf_page": 261,
+        "printed_page": 250
+      },
+      {
+        "level": 2,
+        "title": "11.5 介质及其性能",
+        "pdf_page": 273,
+        "printed_page": 262
+      },
+      {
+        "level": 2,
+        "title": "11.6 旋涂绝缘介质",
+        "pdf_page": 276,
+        "printed_page": 265
+      },
+      {
+        "level": 2,
+        "title": "11.7 外延",
+        "pdf_page": 278,
+        "printed_page": 267
+      },
+      {
+        "level": 2,
+        "title": "11.8 CVD质量测量",
+        "pdf_page": 280,
+        "printed_page": 269
+      },
+      {
+        "level": 2,
+        "title": "11.9 CVD检查及故障排除",
+        "pdf_page": 281,
+        "printed_page": 270
+      },
+      {
+        "level": 2,
+        "title": "11.10 小结",
+        "pdf_page": 282,
+        "printed_page": 271
+      },
+      {
+        "level": 1,
+        "title": "第12章 金属化",
+        "pdf_page": 288,
+        "printed_page": 277
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 288,
+        "printed_page": 277
+      },
+      {
+        "level": 2,
+        "title": "12.1 引言",
+        "pdf_page": 288,
+        "printed_page": 277
+      },
+      {
+        "level": 2,
+        "title": "12.2 金属类型",
+        "pdf_page": 290,
+        "printed_page": 279
+      },
+      {
+        "level": 2,
+        "title": "12.3 金属淀积系统",
+        "pdf_page": 301,
+        "printed_page": 290
+      },
+      {
+        "level": 2,
+        "title": "12.4 金属化方案",
+        "pdf_page": 311,
+        "printed_page": 300
+      },
+      {
+        "level": 2,
+        "title": "12.5 金属化质量测量",
+        "pdf_page": 314,
+        "printed_page": 303
+      },
+      {
+        "level": 2,
+        "title": "12.6 金属化检查及故障排除",
+        "pdf_page": 315,
+        "printed_page": 304
+      },
+      {
+        "level": 2,
+        "title": "12.7 小结",
+        "pdf_page": 316,
+        "printed_page": 305
+      },
+      {
+        "level": 1,
+        "title": "第13章 光刻：气相成底膜到软烘",
+        "pdf_page": 321,
+        "printed_page": 310
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 321,
+        "printed_page": 310
+      },
+      {
+        "level": 2,
+        "title": "13.1 引言",
+        "pdf_page": 321,
+        "printed_page": 310
+      },
+      {
+        "level": 2,
+        "title": "13.2 光刻工艺",
+        "pdf_page": 325,
+        "printed_page": 314
+      },
+      {
+        "level": 2,
+        "title": "13.3 光刻工艺的8个基本步骤",
+        "pdf_page": 327,
+        "printed_page": 316
+      },
+      {
+        "level": 2,
+        "title": "13.4 气相成底膜处理",
+        "pdf_page": 330,
+        "printed_page": 319
+      },
+      {
+        "level": 2,
+        "title": "13.5 旋转涂胶",
+        "pdf_page": 333,
+        "printed_page": 322
+      },
+      {
+        "level": 2,
+        "title": "13.6 软烘",
+        "pdf_page": 344,
+        "printed_page": 333
+      },
+      {
+        "level": 2,
+        "title": "13.7 光刻胶质量测量",
+        "pdf_page": 345,
+        "printed_page": 334
+      },
+      {
+        "level": 2,
+        "title": "13.8 光刻胶检查及故障排除",
+        "pdf_page": 346,
+        "printed_page": 335
+      },
+      {
+        "level": 2,
+        "title": "13.9 小结",
+        "pdf_page": 347,
+        "printed_page": 336
+      },
+      {
+        "level": 1,
+        "title": "第14章 光刻：对准和曝光",
+        "pdf_page": 352,
+        "printed_page": 341
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 352,
+        "printed_page": 341
+      },
+      {
+        "level": 2,
+        "title": "14.1 引言",
+        "pdf_page": 352,
+        "printed_page": 341
+      },
+      {
+        "level": 2,
+        "title": "14.2 光学光刻",
+        "pdf_page": 355,
+        "printed_page": 344
+      },
+      {
+        "level": 2,
+        "title": "14.3 光刻设备",
+        "pdf_page": 371,
+        "printed_page": 360
+      },
+      {
+        "level": 2,
+        "title": "14.4 混合和匹配",
+        "pdf_page": 387,
+        "printed_page": 376
+      },
+      {
+        "level": 2,
+        "title": "14.5 对准和曝光质量测量",
+        "pdf_page": 388,
+        "printed_page": 377
+      },
+      {
+        "level": 2,
+        "title": "14.6 对准和曝光检查及故障排除",
+        "pdf_page": 389,
+        "printed_page": 378
+      },
+      {
+        "level": 2,
+        "title": "14.7 小结",
+        "pdf_page": 389,
+        "printed_page": 378
+      },
+      {
+        "level": 1,
+        "title": "第15章 光刻：光刻胶显影和先进的光刻技术",
+        "pdf_page": 395,
+        "printed_page": 384
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 395,
+        "printed_page": 384
+      },
+      {
+        "level": 2,
+        "title": "15.1 引言",
+        "pdf_page": 395,
+        "printed_page": 384
+      },
+      {
+        "level": 2,
+        "title": "15.2 曝光后烘焙",
+        "pdf_page": 396,
+        "printed_page": 385
+      },
+      {
+        "level": 2,
+        "title": "15.3 显影",
+        "pdf_page": 398,
+        "printed_page": 387
+      },
+      {
+        "level": 2,
+        "title": "15.4 坚膜",
+        "pdf_page": 402,
+        "printed_page": 391
+      },
+      {
+        "level": 2,
+        "title": "15.5 显影检查",
+        "pdf_page": 403,
+        "printed_page": 392
+      },
+      {
+        "level": 2,
+        "title": "15.6 先进的光刻技术",
+        "pdf_page": 404,
+        "printed_page": 393
+      },
+      {
+        "level": 2,
+        "title": "15.7 显影质量测量",
+        "pdf_page": 409,
+        "printed_page": 398
+      },
+      {
+        "level": 2,
+        "title": "15.8 显影检查及故障排除",
+        "pdf_page": 410,
+        "printed_page": 399
+      },
+      {
+        "level": 2,
+        "title": "15.9 小结",
+        "pdf_page": 411,
+        "printed_page": 400
+      },
+      {
+        "level": 1,
+        "title": "第16章 刻蚀",
+        "pdf_page": 415,
+        "printed_page": 404
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 415,
+        "printed_page": 404
+      },
+      {
+        "level": 2,
+        "title": "16.1 引言",
+        "pdf_page": 415,
+        "printed_page": 404
+      },
+      {
+        "level": 2,
+        "title": "16.2 刻蚀参数",
+        "pdf_page": 417,
+        "printed_page": 406
+      },
+      {
+        "level": 2,
+        "title": "16.3 干法刻蚀",
+        "pdf_page": 422,
+        "printed_page": 411
+      },
+      {
+        "level": 2,
+        "title": "16.4 等离子体刻蚀反应器",
+        "pdf_page": 425,
+        "printed_page": 414
+      },
+      {
+        "level": 2,
+        "title": "16.5 干法刻蚀的应用",
+        "pdf_page": 434,
+        "printed_page": 423
+      },
+      {
+        "level": 2,
+        "title": "16.6 湿法腐蚀",
+        "pdf_page": 442,
+        "printed_page": 431
+      },
+      {
+        "level": 2,
+        "title": "16.7 刻蚀技术的发展历程",
+        "pdf_page": 443,
+        "printed_page": 432
+      },
+      {
+        "level": 2,
+        "title": "16.8 去除光刻胶",
+        "pdf_page": 443,
+        "printed_page": 432
+      },
+      {
+        "level": 2,
+        "title": "16.9 刻蚀检查",
+        "pdf_page": 446,
+        "printed_page": 435
+      },
+      {
+        "level": 2,
+        "title": "16.10 刻蚀质量测量",
+        "pdf_page": 446,
+        "printed_page": 435
+      },
+      {
+        "level": 2,
+        "title": "16.11 干法刻蚀检查及故障排除",
+        "pdf_page": 447,
+        "printed_page": 436
+      },
+      {
+        "level": 2,
+        "title": "16.12 小结",
+        "pdf_page": 447,
+        "printed_page": 436
+      },
+      {
+        "level": 1,
+        "title": "第17章 离子注入",
+        "pdf_page": 453,
+        "printed_page": 442
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 453,
+        "printed_page": 442
+      },
+      {
+        "level": 2,
+        "title": "17.1 引言",
+        "pdf_page": 453,
+        "printed_page": 442
+      },
+      {
+        "level": 2,
+        "title": "17.2 扩散",
+        "pdf_page": 456,
+        "printed_page": 445
+      },
+      {
+        "level": 2,
+        "title": "17.3 离子注入",
+        "pdf_page": 459,
+        "printed_page": 448
+      },
+      {
+        "level": 2,
+        "title": "17.4 离子注入机",
+        "pdf_page": 464,
+        "printed_page": 453
+      },
+      {
+        "level": 2,
+        "title": "17.5 离子注入在工艺集成中的发展趋势",
+        "pdf_page": 476,
+        "printed_page": 465
+      },
+      {
+        "level": 2,
+        "title": "17.6 离子注入质量测量",
+        "pdf_page": 481,
+        "printed_page": 470
+      },
+      {
+        "level": 2,
+        "title": "17.7 离子注入检查及故障排除",
+        "pdf_page": 481,
+        "printed_page": 470
+      },
+      {
+        "level": 2,
+        "title": "17.8 小结",
+        "pdf_page": 482,
+        "printed_page": 471
+      },
+      {
+        "level": 1,
+        "title": "第18章 化学机械平坦化",
+        "pdf_page": 488,
+        "printed_page": 477
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 488,
+        "printed_page": 477
+      },
+      {
+        "level": 2,
+        "title": "18.1 引言",
+        "pdf_page": 488,
+        "printed_page": 477
+      },
+      {
+        "level": 2,
+        "title": "18.2 传统的平坦化技术",
+        "pdf_page": 491,
+        "printed_page": 480
+      },
+      {
+        "level": 2,
+        "title": "18.3 化学机械平坦化",
+        "pdf_page": 493,
+        "printed_page": 482
+      },
+      {
+        "level": 2,
+        "title": "18.4 CMP应用",
+        "pdf_page": 506,
+        "printed_page": 495
+      },
+      {
+        "level": 2,
+        "title": "18.5 CMP质量测量",
+        "pdf_page": 509,
+        "printed_page": 498
+      },
+      {
+        "level": 2,
+        "title": "18.6 CMP检查及故障排除",
+        "pdf_page": 510,
+        "printed_page": 499
+      },
+      {
+        "level": 2,
+        "title": "18.7 小结",
+        "pdf_page": 511,
+        "printed_page": 500
+      },
+      {
+        "level": 1,
+        "title": "第19章 硅片测试",
+        "pdf_page": 517,
+        "printed_page": 506
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 517,
+        "printed_page": 506
+      },
+      {
+        "level": 2,
+        "title": "19.1 引言",
+        "pdf_page": 517,
+        "printed_page": 506
+      },
+      {
+        "level": 2,
+        "title": "19.2 硅片测试",
+        "pdf_page": 519,
+        "printed_page": 508
+      },
+      {
+        "level": 2,
+        "title": "19.3 测试质量测量",
+        "pdf_page": 536,
+        "printed_page": 525
+      },
+      {
+        "level": 2,
+        "title": "19.4 测试检查及故障排除",
+        "pdf_page": 536,
+        "printed_page": 525
+      },
+      {
+        "level": 2,
+        "title": "19.5 小结",
+        "pdf_page": 537,
+        "printed_page": 526
+      },
+      {
+        "level": 1,
+        "title": "第20章 装配与封装",
+        "pdf_page": 542,
+        "printed_page": 531
+      },
+      {
+        "level": 2,
+        "title": "目标",
+        "pdf_page": 542,
+        "printed_page": 531
+      },
+      {
+        "level": 2,
+        "title": "20.1 引言",
+        "pdf_page": 542,
+        "printed_page": 531
+      },
+      {
+        "level": 2,
+        "title": "20.2 传统装配",
+        "pdf_page": 545,
+        "printed_page": 534
+      },
+      {
+        "level": 2,
+        "title": "20.3 传统封装",
+        "pdf_page": 551,
+        "printed_page": 540
+      },
+      {
+        "level": 2,
+        "title": "20.4 先进的装配与封装",
+        "pdf_page": 555,
+        "printed_page": 544
+      },
+      {
+        "level": 2,
+        "title": "20.5 封装与装配质量测量",
+        "pdf_page": 563,
+        "printed_page": 552
+      },
+      {
+        "level": 2,
+        "title": "20.6 集成电路封装检查及故障排除",
+        "pdf_page": 564,
+        "printed_page": 553
+      },
+      {
+        "level": 2,
+        "title": "20.7 小结",
+        "pdf_page": 564,
+        "printed_page": 553
+      },
+      {
+        "level": 1,
+        "title": "附录A 化学品及安全性",
+        "pdf_page": 569,
+        "printed_page": 558
+      },
+      {
+        "level": 1,
+        "title": "附录B 净化间的沾污控制",
+        "pdf_page": 577,
+        "printed_page": 566
+      },
+      {
+        "level": 1,
+        "title": "附录C 单位",
+        "pdf_page": 580,
+        "printed_page": 569
+      },
+      {
+        "level": 1,
+        "title": "附录D 作为氧化层厚度函数的颜色",
+        "pdf_page": 582,
+        "printed_page": 571
+      },
+      {
+        "level": 1,
+        "title": "附录E 光刻胶化学的概要",
+        "pdf_page": 583,
+        "printed_page": 572
+      },
+      {
+        "level": 1,
+        "title": "附录F 刻蚀化学",
+        "pdf_page": 587,
+        "printed_page": 576
+      },
+      {
+        "level": 1,
+        "title": "术语表",
+        "pdf_page": 589,
+        "printed_page": 578
+      }
+    ]
+  },
+  {
+    "id": "zhang",
+    "pdf_pages": 488,
+    "toc": [
+      {
+        "level": 1,
+        "title": "封面",
+        "pdf_page": 1
+      },
+      {
+        "level": 1,
+        "title": "书名",
+        "pdf_page": 2
+      },
+      {
+        "level": 1,
+        "title": "版权",
+        "pdf_page": 3
+      },
+      {
+        "level": 1,
+        "title": "前言",
+        "pdf_page": 4
+      },
+      {
+        "level": 1,
+        "title": "目录",
+        "pdf_page": 7
+      },
+      {
+        "level": 1,
+        "title": "第1章  半导体器件",
+        "pdf_page": 17,
+        "printed_page": 1
+      },
+      {
+        "level": 2,
+        "title": "1.1  N型半导体和P型半导体",
+        "pdf_page": 17,
+        "printed_page": 1
+      },
+      {
+        "level": 2,
+        "title": "1.2  PN结二极管",
+        "pdf_page": 18,
+        "printed_page": 2
+      },
+      {
+        "level": 2,
+        "title": "1.2.1  PN结自建电压",
+        "pdf_page": 19,
+        "printed_page": 3
+      },
+      {
+        "level": 2,
+        "title": "1.2.2  理想PN结二极管方程",
+        "pdf_page": 19,
+        "printed_page": 3
+      },
+      {
+        "level": 2,
+        "title": "1.3  双极型晶体管",
+        "pdf_page": 20,
+        "printed_page": 4
+      },
+      {
+        "level": 2,
+        "title": "1.4  金属-氧化物-半导体场效应晶体管",
+        "pdf_page": 21,
+        "printed_page": 5
+      },
+      {
+        "level": 2,
+        "title": "1.4.1  线性模型",
+        "pdf_page": 22,
+        "printed_page": 6
+      },
+      {
+        "level": 2,
+        "title": "1.4.2  非线性模型",
+        "pdf_page": 22,
+        "printed_page": 6
+      },
+      {
+        "level": 2,
+        "title": "1.4.3  阈值电压",
+        "pdf_page": 24,
+        "printed_page": 8
+      },
+      {
+        "level": 2,
+        "title": "1.4.4  衬底偏置效应",
+        "pdf_page": 25,
+        "printed_page": 9
+      },
+      {
+        "level": 2,
+        "title": "1.4.5  亚阈值电流",
+        "pdf_page": 25,
+        "printed_page": 9
+      },
+      {
+        "level": 2,
+        "title": "1.4.6  亚阈值理想因子的推导",
+        "pdf_page": 25,
+        "printed_page": 9
+      },
+      {
+        "level": 2,
+        "title": "1.5  CMOS器件面临的挑战",
+        "pdf_page": 26,
+        "printed_page": 10
+      },
+      {
+        "level": 2,
+        "title": "1.6  结型场效应晶体管",
+        "pdf_page": 29,
+        "printed_page": 13
+      },
+      {
+        "level": 2,
+        "title": "1.7  肖特基势垒栅场效应晶体管",
+        "pdf_page": 30,
+        "printed_page": 14
+      },
+      {
+        "level": 2,
+        "title": "1.8  高电子迁移率晶体管",
+        "pdf_page": 30,
+        "printed_page": 14
+      },
+      {
+        "level": 2,
+        "title": "1.9  无结场效应晶体管",
+        "pdf_page": 31,
+        "printed_page": 15
+      },
+      {
+        "level": 2,
+        "title": "1.9.1  圆柱体全包围栅无结场效应晶体管突变耗尽层近似器件模型",
+        "pdf_page": 33,
+        "printed_page": 17
+      },
+      {
+        "level": 2,
+        "title": "1.9.2  圆柱体全包围栅无结场效应晶体管完整器件模型",
+        "pdf_page": 34,
+        "printed_page": 18
+      },
+      {
+        "level": 2,
+        "title": "1.9.3  无结场效应晶体管器件制作",
+        "pdf_page": 36,
+        "printed_page": 20
+      },
+      {
+        "level": 2,
+        "title": "1.10  量子阱场效应晶体管",
+        "pdf_page": 38,
+        "printed_page": 22
+      },
+      {
+        "level": 2,
+        "title": "1.11  小结",
+        "pdf_page": 42,
+        "printed_page": 26
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 42,
+        "printed_page": 26
+      },
+      {
+        "level": 1,
+        "title": "第2章  集成电路制造工艺发展趋势",
+        "pdf_page": 46,
+        "printed_page": 30
+      },
+      {
+        "level": 2,
+        "title": "2.1  引言",
+        "pdf_page": 46,
+        "printed_page": 30
+      },
+      {
+        "level": 2,
+        "title": "2.2  横向微缩所推动的工艺发展趋势",
+        "pdf_page": 47,
+        "printed_page": 31
+      },
+      {
+        "level": 2,
+        "title": "2.2.1  光刻技术",
+        "pdf_page": 47,
+        "printed_page": 31
+      },
+      {
+        "level": 2,
+        "title": "2.2.2  沟槽填充技术",
+        "pdf_page": 48,
+        "printed_page": 32
+      },
+      {
+        "level": 2,
+        "title": "2.2.3  互连层RC延迟的降低",
+        "pdf_page": 49,
+        "printed_page": 33
+      },
+      {
+        "level": 2,
+        "title": "2.3  纵向微缩所推动的工艺发展趋势",
+        "pdf_page": 51,
+        "printed_page": 35
+      },
+      {
+        "level": 2,
+        "title": "2.3.1  等效栅氧厚度的微缩",
+        "pdf_page": 51,
+        "printed_page": 35
+      },
+      {
+        "level": 2,
+        "title": "2.3.2  源漏工程",
+        "pdf_page": 52,
+        "printed_page": 36
+      },
+      {
+        "level": 2,
+        "title": "2.3.3  自对准硅化物工艺",
+        "pdf_page": 53,
+        "printed_page": 37
+      },
+      {
+        "level": 2,
+        "title": "2.4  弥补几何微缩的等效扩充",
+        "pdf_page": 53,
+        "printed_page": 37
+      },
+      {
+        "level": 2,
+        "title": "2.4.1  高k金属栅",
+        "pdf_page": 54,
+        "printed_page": 38
+      },
+      {
+        "level": 2,
+        "title": "2.4.2  载流子迁移率提高技术",
+        "pdf_page": 55,
+        "printed_page": 39
+      },
+      {
+        "level": 2,
+        "title": "2.5  展望",
+        "pdf_page": 56,
+        "printed_page": 40
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 56,
+        "printed_page": 40
+      },
+      {
+        "level": 1,
+        "title": "第3章  CMOS逻辑电路及存储器制造流程",
+        "pdf_page": 58,
+        "printed_page": 42
+      },
+      {
+        "level": 2,
+        "title": "3.1  逻辑技术及工艺流程",
+        "pdf_page": 58,
+        "printed_page": 42
+      },
+      {
+        "level": 2,
+        "title": "3.1.1  引言",
+        "pdf_page": 58,
+        "printed_page": 42
+      },
+      {
+        "level": 2,
+        "title": "3.1.2  CMOS工艺流程",
+        "pdf_page": 60,
+        "printed_page": 44
+      },
+      {
+        "level": 2,
+        "title": "3.1.3  适用于高k栅介质和金属栅的栅最后形成或置换金属栅CMOS工艺流程",
+        "pdf_page": 67,
+        "printed_page": 51
+      },
+      {
+        "level": 2,
+        "title": "3.1.4  CMOS与鳍式MOSFET（FinFET）",
+        "pdf_page": 67,
+        "printed_page": 51
+      },
+      {
+        "level": 2,
+        "title": "3.2  存储器技术和制造工艺",
+        "pdf_page": 69,
+        "printed_page": 53
+      },
+      {
+        "level": 2,
+        "title": "3.2.1  概述",
+        "pdf_page": 69,
+        "printed_page": 53
+      },
+      {
+        "level": 2,
+        "title": "3.2.2  DRAM和eDRAM",
+        "pdf_page": 69,
+        "printed_page": 53
+      },
+      {
+        "level": 2,
+        "title": "3.2.3  闪存",
+        "pdf_page": 70,
+        "printed_page": 54
+      },
+      {
+        "level": 2,
+        "title": "3.2.4  FeRAM",
+        "pdf_page": 72,
+        "printed_page": 56
+      },
+      {
+        "level": 2,
+        "title": "3.2.5  PCRAM",
+        "pdf_page": 72,
+        "printed_page": 56
+      },
+      {
+        "level": 2,
+        "title": "3.2.6  RRAM",
+        "pdf_page": 73,
+        "printed_page": 57
+      },
+      {
+        "level": 2,
+        "title": "3.2.7  MRAM",
+        "pdf_page": 75,
+        "printed_page": 59
+      },
+      {
+        "level": 2,
+        "title": "3.2.8  3D NAND",
+        "pdf_page": 75,
+        "printed_page": 59
+      },
+      {
+        "level": 2,
+        "title": "3.2.9  CMOS图像传感器",
+        "pdf_page": 78,
+        "printed_page": 62
+      },
+      {
+        "level": 2,
+        "title": "3.3  无结场效应晶体管器件结构与工艺",
+        "pdf_page": 80,
+        "printed_page": 64
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 83,
+        "printed_page": 67
+      },
+      {
+        "level": 1,
+        "title": "第4章  电介质薄膜沉积工艺",
+        "pdf_page": 87,
+        "printed_page": 71
+      },
+      {
+        "level": 2,
+        "title": "4.1  前言",
+        "pdf_page": 87,
+        "printed_page": 71
+      },
+      {
+        "level": 2,
+        "title": "4.2  氧化膜/氮化膜工艺",
+        "pdf_page": 87,
+        "printed_page": 71
+      },
+      {
+        "level": 2,
+        "title": "4.3  栅极电介质薄膜",
+        "pdf_page": 92,
+        "printed_page": 76
+      },
+      {
+        "level": 2,
+        "title": "4.3.1  栅极氧化介电层-氮氧化硅（SiOx Ny）",
+        "pdf_page": 92,
+        "printed_page": 76
+      },
+      {
+        "level": 2,
+        "title": "4.3.2  高k栅极介质",
+        "pdf_page": 95,
+        "printed_page": 79
+      },
+      {
+        "level": 2,
+        "title": "4.4  半导体绝缘介质的填充",
+        "pdf_page": 99,
+        "printed_page": 83
+      },
+      {
+        "level": 2,
+        "title": "4.4.1  高密度等离子体化学气相沉积工艺",
+        "pdf_page": 99,
+        "printed_page": 83
+      },
+      {
+        "level": 2,
+        "title": "4.4.2  O3-TEOS的亚常压化学气相沉积工艺",
+        "pdf_page": 103,
+        "printed_page": 87
+      },
+      {
+        "level": 2,
+        "title": "4.5  超低介电常数薄膜",
+        "pdf_page": 106,
+        "printed_page": 90
+      },
+      {
+        "level": 2,
+        "title": "4.5.1  前言",
+        "pdf_page": 106,
+        "printed_page": 90
+      },
+      {
+        "level": 2,
+        "title": "4.5.2  RC delay对器件运算速度的影响",
+        "pdf_page": 107,
+        "printed_page": 91
+      },
+      {
+        "level": 2,
+        "title": "4.5.3  k为2.7  ～3.0的低介电常数材料",
+        "pdf_page": 108,
+        "printed_page": 92
+      },
+      {
+        "level": 2,
+        "title": "4.5.4  k为2.5  的超低介电常数材料",
+        "pdf_page": 110,
+        "printed_page": 94
+      },
+      {
+        "level": 2,
+        "title": "4.5.5  刻蚀停止层与铜阻挡层介电常数材料",
+        "pdf_page": 111,
+        "printed_page": 95
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 112,
+        "printed_page": 96
+      },
+      {
+        "level": 1,
+        "title": "第5章  应力工程",
+        "pdf_page": 114,
+        "printed_page": 98
+      },
+      {
+        "level": 2,
+        "title": "5.1  简介",
+        "pdf_page": 114,
+        "printed_page": 98
+      },
+      {
+        "level": 2,
+        "title": "5.2  源漏区嵌入技术",
+        "pdf_page": 115,
+        "printed_page": 99
+      },
+      {
+        "level": 2,
+        "title": "5.2.1  嵌入式锗硅工艺",
+        "pdf_page": 115,
+        "printed_page": 99
+      },
+      {
+        "level": 2,
+        "title": "5.2.2  嵌入式碳硅工艺",
+        "pdf_page": 117,
+        "printed_page": 101
+      },
+      {
+        "level": 2,
+        "title": "5.3  应力记忆技术",
+        "pdf_page": 119,
+        "printed_page": 103
+      },
+      {
+        "level": 2,
+        "title": "5.3.1  SMT技术的分类",
+        "pdf_page": 119,
+        "printed_page": 103
+      },
+      {
+        "level": 2,
+        "title": "5.3.2  SMT的工艺流程",
+        "pdf_page": 120,
+        "printed_page": 104
+      },
+      {
+        "level": 2,
+        "title": "5.3.3  SMT氮化硅工艺介绍及其发展",
+        "pdf_page": 121,
+        "printed_page": 105
+      },
+      {
+        "level": 2,
+        "title": "5.4  双极应力刻蚀阻挡层",
+        "pdf_page": 122,
+        "printed_page": 106
+      },
+      {
+        "level": 2,
+        "title": "5.5  应力效应提升技术",
+        "pdf_page": 124,
+        "printed_page": 108
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 126,
+        "printed_page": 110
+      },
+      {
+        "level": 1,
+        "title": "第6章  金属薄膜沉积工艺及金属化",
+        "pdf_page": 128,
+        "printed_page": 112
+      },
+      {
+        "level": 2,
+        "title": "6.1  金属栅",
+        "pdf_page": 128,
+        "printed_page": 112
+      },
+      {
+        "level": 2,
+        "title": "6.1.1  金属栅极的使用",
+        "pdf_page": 128,
+        "printed_page": 112
+      },
+      {
+        "level": 2,
+        "title": "6.1.2  金属栅材料性能的要求",
+        "pdf_page": 128,
+        "printed_page": 112
+      },
+      {
+        "level": 2,
+        "title": "6.2  自对准硅化物",
+        "pdf_page": 133,
+        "printed_page": 117
+      },
+      {
+        "level": 2,
+        "title": "6.2.1  预清洁处理",
+        "pdf_page": 133,
+        "printed_page": 117
+      },
+      {
+        "level": 2,
+        "title": "6.2.2  镍铂合金沉积",
+        "pdf_page": 135,
+        "printed_page": 119
+      },
+      {
+        "level": 2,
+        "title": "6.2.3  盖帽层TiN沉积",
+        "pdf_page": 136,
+        "printed_page": 120
+      },
+      {
+        "level": 2,
+        "title": "6.3  接触窗薄膜工艺",
+        "pdf_page": 137,
+        "printed_page": 121
+      },
+      {
+        "level": 2,
+        "title": "6.3.1  前言",
+        "pdf_page": 137,
+        "printed_page": 121
+      },
+      {
+        "level": 2,
+        "title": "6.3.2  主要的问题",
+        "pdf_page": 137,
+        "printed_page": 121
+      },
+      {
+        "level": 2,
+        "title": "6.3.3  前处理工艺",
+        "pdf_page": 138,
+        "printed_page": 122
+      },
+      {
+        "level": 2,
+        "title": "6.3.4  PVD Ti",
+        "pdf_page": 139,
+        "printed_page": 123
+      },
+      {
+        "level": 2,
+        "title": "6.3.5  TiN制程",
+        "pdf_page": 140,
+        "printed_page": 124
+      },
+      {
+        "level": 2,
+        "title": "6.3.6  W plug制程",
+        "pdf_page": 141,
+        "printed_page": 125
+      },
+      {
+        "level": 2,
+        "title": "6.4  金属互连",
+        "pdf_page": 142,
+        "printed_page": 126
+      },
+      {
+        "level": 2,
+        "title": "6.4.1  前言",
+        "pdf_page": 142,
+        "printed_page": 126
+      },
+      {
+        "level": 2,
+        "title": "6.4.2  预清洁工艺",
+        "pdf_page": 143,
+        "printed_page": 127
+      },
+      {
+        "level": 2,
+        "title": "6.4.3  阻挡层",
+        "pdf_page": 144,
+        "printed_page": 128
+      },
+      {
+        "level": 2,
+        "title": "6.4.4  种子层",
+        "pdf_page": 147,
+        "printed_page": 131
+      },
+      {
+        "level": 2,
+        "title": "6.4.5  铜化学电镀",
+        "pdf_page": 148,
+        "printed_page": 132
+      },
+      {
+        "level": 2,
+        "title": "6.4.6  洗边和退火",
+        "pdf_page": 154,
+        "printed_page": 138
+      },
+      {
+        "level": 2,
+        "title": "6.5  小结",
+        "pdf_page": 157,
+        "printed_page": 141
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 157,
+        "printed_page": 141
+      },
+      {
+        "level": 1,
+        "title": "第7章  光刻技术",
+        "pdf_page": 160,
+        "printed_page": 144
+      },
+      {
+        "level": 2,
+        "title": "7.1  光刻技术简介",
+        "pdf_page": 160,
+        "printed_page": 144
+      },
+      {
+        "level": 2,
+        "title": "7.1.1  光刻技术发展历史",
+        "pdf_page": 160,
+        "printed_page": 144
+      },
+      {
+        "level": 2,
+        "title": "7.1.2  光刻的基本方法",
+        "pdf_page": 160,
+        "printed_page": 144
+      },
+      {
+        "level": 2,
+        "title": "7.1.3  其他图像传递方法",
+        "pdf_page": 162,
+        "printed_page": 146
+      },
+      {
+        "level": 2,
+        "title": "7.2  光刻的系统参数",
+        "pdf_page": 163,
+        "printed_page": 147
+      },
+      {
+        "level": 2,
+        "title": "7.2.1  波长、数值孔径、像空间介质折射率",
+        "pdf_page": 163,
+        "printed_page": 147
+      },
+      {
+        "level": 2,
+        "title": "7.2.2  光刻分辨率的表示",
+        "pdf_page": 165,
+        "printed_page": 149
+      },
+      {
+        "level": 2,
+        "title": "7.3  光刻工艺流程",
+        "pdf_page": 167,
+        "printed_page": 151
+      },
+      {
+        "level": 2,
+        "title": "7.4  光刻工艺窗口以及图形完整性评价方法",
+        "pdf_page": 172,
+        "printed_page": 156
+      },
+      {
+        "level": 2,
+        "title": "7.4.1  曝光能量宽裕度，归一化图像对数斜率（NILS）",
+        "pdf_page": 172,
+        "printed_page": 156
+      },
+      {
+        "level": 2,
+        "title": "7.4.2  对焦深度（找平方法）",
+        "pdf_page": 174,
+        "printed_page": 158
+      },
+      {
+        "level": 2,
+        "title": "7.4.3  掩膜版误差因子",
+        "pdf_page": 177,
+        "printed_page": 161
+      },
+      {
+        "level": 2,
+        "title": "7.4.4  线宽均匀性",
+        "pdf_page": 181,
+        "printed_page": 165
+      },
+      {
+        "level": 2,
+        "title": "7.4.5  光刻胶形貌",
+        "pdf_page": 188,
+        "printed_page": 172
+      },
+      {
+        "level": 2,
+        "title": "7.4.6  对准、套刻精度",
+        "pdf_page": 190,
+        "printed_page": 174
+      },
+      {
+        "level": 2,
+        "title": "7.4.7  缺陷的检测、分类、原理以及排除方法",
+        "pdf_page": 196,
+        "printed_page": 180
+      },
+      {
+        "level": 2,
+        "title": "7.5  相干和部分相干成像",
+        "pdf_page": 199,
+        "printed_page": 183
+      },
+      {
+        "level": 2,
+        "title": "7.5.1  光刻成像模型，调制传递函数",
+        "pdf_page": 199,
+        "printed_page": 183
+      },
+      {
+        "level": 2,
+        "title": "7.5.2  点扩散函数",
+        "pdf_page": 209,
+        "printed_page": 193
+      },
+      {
+        "level": 2,
+        "title": "7.5.3  偏振效应",
+        "pdf_page": 211,
+        "printed_page": 195
+      },
+      {
+        "level": 2,
+        "title": "7.5.4  掩膜版三维尺寸效应",
+        "pdf_page": 214,
+        "printed_page": 198
+      },
+      {
+        "level": 2,
+        "title": "7.6  光刻设备和材料",
+        "pdf_page": 214,
+        "printed_page": 198
+      },
+      {
+        "level": 2,
+        "title": "7.6.1  光刻机原理介绍",
+        "pdf_page": 214,
+        "printed_page": 198
+      },
+      {
+        "level": 2,
+        "title": "7.6.2  光学像差及其对光刻工艺窗口的影响",
+        "pdf_page": 217,
+        "printed_page": 201
+      },
+      {
+        "level": 2,
+        "title": "7.6.3  光刻胶配制原理",
+        "pdf_page": 221,
+        "printed_page": 205
+      },
+      {
+        "level": 2,
+        "title": "7.6.4  掩膜版制作介绍",
+        "pdf_page": 224,
+        "printed_page": 208
+      },
+      {
+        "level": 2,
+        "title": "7.7  与分辨率相关工艺窗口增强方法",
+        "pdf_page": 226,
+        "printed_page": 210
+      },
+      {
+        "level": 2,
+        "title": "7.7.1  离轴照明",
+        "pdf_page": 226,
+        "printed_page": 210
+      },
+      {
+        "level": 2,
+        "title": "7.7.2  相移掩膜版",
+        "pdf_page": 228,
+        "printed_page": 212
+      },
+      {
+        "level": 2,
+        "title": "7.7.3  亚衍射散射条",
+        "pdf_page": 231,
+        "printed_page": 215
+      },
+      {
+        "level": 2,
+        "title": "7.7.4  光学邻近效应修正",
+        "pdf_page": 235,
+        "printed_page": 219
+      },
+      {
+        "level": 2,
+        "title": "7.7.5  二重图形技术",
+        "pdf_page": 237,
+        "printed_page": 221
+      },
+      {
+        "level": 2,
+        "title": "7.7.6  浸没式光刻",
+        "pdf_page": 239,
+        "printed_page": 223
+      },
+      {
+        "level": 2,
+        "title": "7.7.7  极紫外光刻",
+        "pdf_page": 240,
+        "printed_page": 224
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 241,
+        "printed_page": 225
+      },
+      {
+        "level": 1,
+        "title": "第8章  干法刻蚀",
+        "pdf_page": 245,
+        "printed_page": 229
+      },
+      {
+        "level": 2,
+        "title": "8.1  引言",
+        "pdf_page": 245,
+        "printed_page": 229
+      },
+      {
+        "level": 2,
+        "title": "8.1.1  等离子刻蚀",
+        "pdf_page": 245,
+        "printed_page": 229
+      },
+      {
+        "level": 2,
+        "title": "8.1.2  干法刻蚀机的发展",
+        "pdf_page": 245,
+        "printed_page": 229
+      },
+      {
+        "level": 2,
+        "title": "8.1.3  干法刻蚀的度量",
+        "pdf_page": 248,
+        "printed_page": 232
+      },
+      {
+        "level": 2,
+        "title": "8.2  干法刻蚀建模",
+        "pdf_page": 250,
+        "printed_page": 234
+      },
+      {
+        "level": 2,
+        "title": "8.2.1  基本原理模拟",
+        "pdf_page": 250,
+        "printed_page": 234
+      },
+      {
+        "level": 2,
+        "title": "8.2.2  经验模型",
+        "pdf_page": 252,
+        "printed_page": 236
+      },
+      {
+        "level": 2,
+        "title": "8.3  先进的干法刻蚀反应器",
+        "pdf_page": 256,
+        "printed_page": 240
+      },
+      {
+        "level": 2,
+        "title": "8.3.1  泛林半导体",
+        "pdf_page": 256,
+        "printed_page": 240
+      },
+      {
+        "level": 2,
+        "title": "8.3.2  东京电子",
+        "pdf_page": 257,
+        "printed_page": 241
+      },
+      {
+        "level": 2,
+        "title": "8.3.3  应用材料",
+        "pdf_page": 257,
+        "printed_page": 241
+      },
+      {
+        "level": 2,
+        "title": "8.4  干法刻蚀应用",
+        "pdf_page": 258,
+        "printed_page": 242
+      },
+      {
+        "level": 2,
+        "title": "8.4.1  浅槽隔离（STI）刻蚀",
+        "pdf_page": 259,
+        "printed_page": 243
+      },
+      {
+        "level": 2,
+        "title": "8.4.2  多晶硅栅刻蚀",
+        "pdf_page": 259,
+        "printed_page": 243
+      },
+      {
+        "level": 2,
+        "title": "8.4.3  栅侧墙刻蚀",
+        "pdf_page": 263,
+        "printed_page": 247
+      },
+      {
+        "level": 2,
+        "title": "8.4.4  钨接触孔刻蚀",
+        "pdf_page": 265,
+        "printed_page": 249
+      },
+      {
+        "level": 2,
+        "title": "8.4.5  铜通孔刻蚀",
+        "pdf_page": 268,
+        "printed_page": 252
+      },
+      {
+        "level": 2,
+        "title": "8.4.6  电介质沟槽刻蚀",
+        "pdf_page": 272,
+        "printed_page": 256
+      },
+      {
+        "level": 2,
+        "title": "8.4.7  铝垫刻蚀",
+        "pdf_page": 275,
+        "printed_page": 259
+      },
+      {
+        "level": 2,
+        "title": "8.4.8  灰化",
+        "pdf_page": 277,
+        "printed_page": 261
+      },
+      {
+        "level": 2,
+        "title": "8.4.9  新近出现的刻蚀",
+        "pdf_page": 278,
+        "printed_page": 262
+      },
+      {
+        "level": 2,
+        "title": "8.5  先进的刻蚀工艺控制",
+        "pdf_page": 282,
+        "printed_page": 266
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 283,
+        "printed_page": 267
+      },
+      {
+        "level": 1,
+        "title": "第9章  集成电路制造中的污染和清洗技术",
+        "pdf_page": 286,
+        "printed_page": 270
+      },
+      {
+        "level": 2,
+        "title": "9.1  IC制造过程中的污染源",
+        "pdf_page": 286,
+        "printed_page": 270
+      },
+      {
+        "level": 2,
+        "title": "9.2  IC污染对器件的影响",
+        "pdf_page": 286,
+        "printed_page": 270
+      },
+      {
+        "level": 2,
+        "title": "9.3  晶片的湿法处理概述",
+        "pdf_page": 288,
+        "printed_page": 272
+      },
+      {
+        "level": 2,
+        "title": "9.3.1  晶片湿法处理的要求",
+        "pdf_page": 288,
+        "printed_page": 272
+      },
+      {
+        "level": 2,
+        "title": "9.3.2  晶片湿法处理的机理",
+        "pdf_page": 288,
+        "printed_page": 272
+      },
+      {
+        "level": 2,
+        "title": "9.3.3  晶片湿法处理的范围",
+        "pdf_page": 289,
+        "printed_page": 273
+      },
+      {
+        "level": 2,
+        "title": "9.4  晶片表面颗粒去除方法",
+        "pdf_page": 289,
+        "printed_page": 273
+      },
+      {
+        "level": 2,
+        "title": "9.4.1  颗粒化学去除",
+        "pdf_page": 289,
+        "printed_page": 273
+      },
+      {
+        "level": 2,
+        "title": "9.4.2  颗粒物理去除",
+        "pdf_page": 290,
+        "printed_page": 274
+      },
+      {
+        "level": 2,
+        "title": "9.5  制程沉积膜前/后清洗",
+        "pdf_page": 292,
+        "printed_page": 276
+      },
+      {
+        "level": 2,
+        "title": "9.6  制程光阻清洗",
+        "pdf_page": 293,
+        "printed_page": 277
+      },
+      {
+        "level": 2,
+        "title": "9.7  晶片湿法刻蚀技术",
+        "pdf_page": 295,
+        "printed_page": 279
+      },
+      {
+        "level": 2,
+        "title": "9.7.1  晶片湿法刻蚀过程原理",
+        "pdf_page": 296,
+        "printed_page": 280
+      },
+      {
+        "level": 2,
+        "title": "9.7.2  硅湿法刻蚀",
+        "pdf_page": 296,
+        "printed_page": 280
+      },
+      {
+        "level": 2,
+        "title": "9.7.3  氧化硅湿法刻蚀",
+        "pdf_page": 296,
+        "printed_page": 280
+      },
+      {
+        "level": 2,
+        "title": "9.7.4  氮化硅湿法刻蚀",
+        "pdf_page": 298,
+        "printed_page": 282
+      },
+      {
+        "level": 2,
+        "title": "9.7.5  金属湿法刻蚀",
+        "pdf_page": 299,
+        "printed_page": 283
+      },
+      {
+        "level": 2,
+        "title": "9.8  晶背/边缘清洗和膜层去除",
+        "pdf_page": 300,
+        "printed_page": 284
+      },
+      {
+        "level": 2,
+        "title": "9.9  65nm和45nm以下湿法处理难点以及HKMG湿法应用",
+        "pdf_page": 302,
+        "printed_page": 286
+      },
+      {
+        "level": 2,
+        "title": "9.9.1  栅极表面预处理",
+        "pdf_page": 302,
+        "printed_page": 286
+      },
+      {
+        "level": 2,
+        "title": "9.9.2  叠层栅极：选择性刻蚀和清洗",
+        "pdf_page": 303,
+        "printed_page": 287
+      },
+      {
+        "level": 2,
+        "title": "9.9.3  临时poly-Si去除",
+        "pdf_page": 306,
+        "printed_page": 290
+      },
+      {
+        "level": 2,
+        "title": "9.10  湿法清洗机台及其冲洗和干燥技术",
+        "pdf_page": 307,
+        "printed_page": 291
+      },
+      {
+        "level": 2,
+        "title": "9.10.1  单片旋转喷淋清洗机",
+        "pdf_page": 307,
+        "printed_page": 291
+      },
+      {
+        "level": 2,
+        "title": "9.10.2  批旋转喷淋清洗机",
+        "pdf_page": 308,
+        "printed_page": 292
+      },
+      {
+        "level": 2,
+        "title": "9.10.3  批浸泡式清洗机",
+        "pdf_page": 309,
+        "printed_page": 293
+      },
+      {
+        "level": 2,
+        "title": "9.11  污染清洗中的测量与表征",
+        "pdf_page": 310,
+        "printed_page": 294
+      },
+      {
+        "level": 2,
+        "title": "9.11.1  颗粒量测",
+        "pdf_page": 310,
+        "printed_page": 294
+      },
+      {
+        "level": 2,
+        "title": "9.11.2  金属离子检测",
+        "pdf_page": 311,
+        "printed_page": 295
+      },
+      {
+        "level": 2,
+        "title": "9.11.3  四探针厚度测量",
+        "pdf_page": 311,
+        "printed_page": 295
+      },
+      {
+        "level": 2,
+        "title": "9.11.4  椭圆偏光厚度测量",
+        "pdf_page": 311,
+        "printed_page": 295
+      },
+      {
+        "level": 2,
+        "title": "9.11.5  其他度量",
+        "pdf_page": 312,
+        "printed_page": 296
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 312,
+        "printed_page": 296
+      },
+      {
+        "level": 1,
+        "title": "第10章  超浅结技术",
+        "pdf_page": 314,
+        "printed_page": 298
+      },
+      {
+        "level": 2,
+        "title": "10.1  简介",
+        "pdf_page": 314,
+        "printed_page": 298
+      },
+      {
+        "level": 2,
+        "title": "10.2  离子注入",
+        "pdf_page": 314,
+        "printed_page": 298
+      },
+      {
+        "level": 2,
+        "title": "10.3  快速热处理工艺",
+        "pdf_page": 319,
+        "printed_page": 303
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 323,
+        "printed_page": 307
+      },
+      {
+        "level": 1,
+        "title": "第11章  化学机械平坦化",
+        "pdf_page": 327,
+        "printed_page": 311
+      },
+      {
+        "level": 2,
+        "title": "11.1  引言",
+        "pdf_page": 327,
+        "printed_page": 311
+      },
+      {
+        "level": 2,
+        "title": "11.2  浅槽隔离抛光",
+        "pdf_page": 328,
+        "printed_page": 312
+      },
+      {
+        "level": 2,
+        "title": "11.2.1  STI CMP的要求和演化",
+        "pdf_page": 328,
+        "printed_page": 312
+      },
+      {
+        "level": 2,
+        "title": "11.2.2  氧化铈研磨液的特点",
+        "pdf_page": 329,
+        "printed_page": 313
+      },
+      {
+        "level": 2,
+        "title": "11.2.3  固定研磨粒抛光工艺",
+        "pdf_page": 330,
+        "printed_page": 314
+      },
+      {
+        "level": 2,
+        "title": "11.3  铜抛光",
+        "pdf_page": 333,
+        "printed_page": 317
+      },
+      {
+        "level": 2,
+        "title": "11.3.1  Cu CMP的过程和机理",
+        "pdf_page": 333,
+        "printed_page": 317
+      },
+      {
+        "level": 2,
+        "title": "11.3.2  先进工艺对Cu CMP的挑战",
+        "pdf_page": 335,
+        "printed_page": 319
+      },
+      {
+        "level": 2,
+        "title": "11.3.3  Cu CMP产生的缺陷",
+        "pdf_page": 336,
+        "printed_page": 320
+      },
+      {
+        "level": 2,
+        "title": "11.4  高k金属栅抛光的挑战",
+        "pdf_page": 340,
+        "printed_page": 324
+      },
+      {
+        "level": 2,
+        "title": "11.4.1  CMP在高k金属栅形成中的应用",
+        "pdf_page": 340,
+        "printed_page": 324
+      },
+      {
+        "level": 2,
+        "title": "11.4.2  ILD？ CMP的方法及使用的研磨液",
+        "pdf_page": 341,
+        "printed_page": 325
+      },
+      {
+        "level": 2,
+        "title": "11.4.3  Al CMP的方法及使用的研磨液",
+        "pdf_page": 342,
+        "printed_page": 326
+      },
+      {
+        "level": 2,
+        "title": "11.5  GST抛光（GST CMP）",
+        "pdf_page": 342,
+        "printed_page": 326
+      },
+      {
+        "level": 2,
+        "title": "11.5.1  GST CMP的应用",
+        "pdf_page": 342,
+        "printed_page": 326
+      },
+      {
+        "level": 2,
+        "title": "11.5.2  GST CMP的挑战",
+        "pdf_page": 343,
+        "printed_page": 327
+      },
+      {
+        "level": 2,
+        "title": "11.6  小结",
+        "pdf_page": 343,
+        "printed_page": 327
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 343,
+        "printed_page": 327
+      },
+      {
+        "level": 1,
+        "title": "第12章  器件参数和工艺相关性",
+        "pdf_page": 345,
+        "printed_page": 329
+      },
+      {
+        "level": 2,
+        "title": "12.1  MOS电性参数",
+        "pdf_page": 345,
+        "printed_page": 329
+      },
+      {
+        "level": 2,
+        "title": "12.2  栅极氧化层制程对MOS电性参数的影响",
+        "pdf_page": 346,
+        "printed_page": 330
+      },
+      {
+        "level": 2,
+        "title": "12.3  栅极制程对MOS电性参数的影响",
+        "pdf_page": 347,
+        "printed_page": 331
+      },
+      {
+        "level": 2,
+        "title": "12.4  超浅结对MOS电性参数的影响",
+        "pdf_page": 347,
+        "printed_page": 331
+      },
+      {
+        "level": 2,
+        "title": "12.5  金属硅化物对MOS电性参数的影响",
+        "pdf_page": 348,
+        "printed_page": 332
+      },
+      {
+        "level": 2,
+        "title": "12.6  多重连导线",
+        "pdf_page": 349,
+        "printed_page": 333
+      },
+      {
+        "level": 1,
+        "title": "第13章  可制造性设计",
+        "pdf_page": 350,
+        "printed_page": 334
+      },
+      {
+        "level": 2,
+        "title": "13.1  介绍",
+        "pdf_page": 350,
+        "printed_page": 334
+      },
+      {
+        "level": 2,
+        "title": "13.2  DFM技术和工作流程",
+        "pdf_page": 353,
+        "printed_page": 337
+      },
+      {
+        "level": 2,
+        "title": "13.2.1  光刻DFM",
+        "pdf_page": 353,
+        "printed_page": 337
+      },
+      {
+        "level": 2,
+        "title": "13.2.2  Metal-1图形的例子",
+        "pdf_page": 355,
+        "printed_page": 339
+      },
+      {
+        "level": 2,
+        "title": "13.3  CMP DFM",
+        "pdf_page": 357,
+        "printed_page": 341
+      },
+      {
+        "level": 2,
+        "title": "13.4  DFM展望",
+        "pdf_page": 359,
+        "printed_page": 343
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 360,
+        "printed_page": 344
+      },
+      {
+        "level": 1,
+        "title": "第14章  半导体器件失效分析",
+        "pdf_page": 362,
+        "printed_page": 346
+      },
+      {
+        "level": 2,
+        "title": "14.1  失效分析概论",
+        "pdf_page": 362,
+        "printed_page": 346
+      },
+      {
+        "level": 2,
+        "title": "14.1.1  失效分析基本原则",
+        "pdf_page": 362,
+        "printed_page": 346
+      },
+      {
+        "level": 2,
+        "title": "14.1.2  失效分析流程",
+        "pdf_page": 363,
+        "printed_page": 347
+      },
+      {
+        "level": 2,
+        "title": "14.2  失效分析技术",
+        "pdf_page": 366,
+        "printed_page": 350
+      },
+      {
+        "level": 2,
+        "title": "14.2.1  封装器件的分析技术",
+        "pdf_page": 366,
+        "printed_page": 350
+      },
+      {
+        "level": 2,
+        "title": "14.2.2  开封技术",
+        "pdf_page": 368,
+        "printed_page": 352
+      },
+      {
+        "level": 2,
+        "title": "14.2.3  失效定位技术",
+        "pdf_page": 369,
+        "printed_page": 353
+      },
+      {
+        "level": 2,
+        "title": "14.2.4  样品制备技术",
+        "pdf_page": 381,
+        "printed_page": 365
+      },
+      {
+        "level": 2,
+        "title": "14.2.5  微分析技术",
+        "pdf_page": 382,
+        "printed_page": 366
+      },
+      {
+        "level": 2,
+        "title": "14.2.6  表面分析技术",
+        "pdf_page": 392,
+        "printed_page": 376
+      },
+      {
+        "level": 2,
+        "title": "14.3  案例分析",
+        "pdf_page": 394,
+        "printed_page": 378
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 399,
+        "printed_page": 383
+      },
+      {
+        "level": 1,
+        "title": "第15章  集成电路可靠性介绍",
+        "pdf_page": 400,
+        "printed_page": 384
+      },
+      {
+        "level": 2,
+        "title": "15.1  热载流子效应（HCI）",
+        "pdf_page": 401,
+        "printed_page": 385
+      },
+      {
+        "level": 2,
+        "title": "15.1.1  HCI的机理",
+        "pdf_page": 401,
+        "printed_page": 385
+      },
+      {
+        "level": 2,
+        "title": "15.1.2  HCI寿命模型",
+        "pdf_page": 401,
+        "printed_page": 385
+      },
+      {
+        "level": 2,
+        "title": "15.2  负偏压温度不稳定性（NBTI）",
+        "pdf_page": 404,
+        "printed_page": 388
+      },
+      {
+        "level": 2,
+        "title": "15.2.1  NBTI机理",
+        "pdf_page": 404,
+        "printed_page": 388
+      },
+      {
+        "level": 2,
+        "title": "15.2.2  NBTI模型",
+        "pdf_page": 404,
+        "printed_page": 388
+      },
+      {
+        "level": 2,
+        "title": "15.3  经时介电层击穿（TDDB）",
+        "pdf_page": 407,
+        "printed_page": 391
+      },
+      {
+        "level": 2,
+        "title": "15.4  电压斜坡（V-ramp）和电流斜坡（J-ramp）测量技术",
+        "pdf_page": 407,
+        "printed_page": 391
+      },
+      {
+        "level": 2,
+        "title": "15.5  氧化层击穿寿命预测",
+        "pdf_page": 409,
+        "printed_page": 393
+      },
+      {
+        "level": 2,
+        "title": "15.6  电迁移",
+        "pdf_page": 409,
+        "printed_page": 393
+      },
+      {
+        "level": 2,
+        "title": "15.7  应力迁移",
+        "pdf_page": 410,
+        "printed_page": 394
+      },
+      {
+        "level": 2,
+        "title": "15.8  集成电路可靠性面临的挑战",
+        "pdf_page": 411,
+        "printed_page": 395
+      },
+      {
+        "level": 2,
+        "title": "15.9  结论",
+        "pdf_page": 412,
+        "printed_page": 396
+      },
+      {
+        "level": 1,
+        "title": "第16章  集成电路测量",
+        "pdf_page": 413,
+        "printed_page": 397
+      },
+      {
+        "level": 2,
+        "title": "16.1  测量系统分析",
+        "pdf_page": 413,
+        "printed_page": 397
+      },
+      {
+        "level": 2,
+        "title": "16.1.1  准确性和精确性",
+        "pdf_page": 413,
+        "printed_page": 397
+      },
+      {
+        "level": 2,
+        "title": "16.1.2  测量系统的分辨力",
+        "pdf_page": 413,
+        "printed_page": 397
+      },
+      {
+        "level": 2,
+        "title": "16.1.3  稳定分析",
+        "pdf_page": 414,
+        "printed_page": 398
+      },
+      {
+        "level": 2,
+        "title": "16.1.4  位置分析",
+        "pdf_page": 414,
+        "printed_page": 398
+      },
+      {
+        "level": 2,
+        "title": "16.1.5  变异分析",
+        "pdf_page": 415,
+        "printed_page": 399
+      },
+      {
+        "level": 2,
+        "title": "16.1.6  量值的溯源、校准和检定",
+        "pdf_page": 418,
+        "printed_page": 402
+      },
+      {
+        "level": 2,
+        "title": "16.2  原子力显微镜",
+        "pdf_page": 418,
+        "printed_page": 402
+      },
+      {
+        "level": 2,
+        "title": "16.2.1  仪器结构",
+        "pdf_page": 418,
+        "printed_page": 402
+      },
+      {
+        "level": 2,
+        "title": "16.2.2  工作模式",
+        "pdf_page": 419,
+        "printed_page": 403
+      },
+      {
+        "level": 2,
+        "title": "16.3  扫描电子显微镜",
+        "pdf_page": 420,
+        "printed_page": 404
+      },
+      {
+        "level": 2,
+        "title": "16.4  椭圆偏振光谱仪",
+        "pdf_page": 422,
+        "printed_page": 406
+      },
+      {
+        "level": 2,
+        "title": "16.5  统计过程控制",
+        "pdf_page": 426,
+        "printed_page": 410
+      },
+      {
+        "level": 2,
+        "title": "16.5.1  统计控制图",
+        "pdf_page": 427,
+        "printed_page": 411
+      },
+      {
+        "level": 2,
+        "title": "16.5.2  过程能力指数",
+        "pdf_page": 431,
+        "printed_page": 415
+      },
+      {
+        "level": 2,
+        "title": "16.5.3  统计过程控制在集成电路生产中的应用",
+        "pdf_page": 432,
+        "printed_page": 416
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 433,
+        "printed_page": 417
+      },
+      {
+        "level": 1,
+        "title": "第17章  良率改善",
+        "pdf_page": 434,
+        "printed_page": 418
+      },
+      {
+        "level": 2,
+        "title": "17.1  良率改善介绍",
+        "pdf_page": 434,
+        "printed_page": 418
+      },
+      {
+        "level": 2,
+        "title": "17.1.1  关于良率的基础知识",
+        "pdf_page": 434,
+        "printed_page": 418
+      },
+      {
+        "level": 2,
+        "title": "17.1.2  失效机制",
+        "pdf_page": 438,
+        "printed_page": 422
+      },
+      {
+        "level": 2,
+        "title": "17.1.3  良率学习体系",
+        "pdf_page": 441,
+        "printed_page": 425
+      },
+      {
+        "level": 2,
+        "title": "17.2  用于良率提高的分析方法",
+        "pdf_page": 447,
+        "printed_page": 431
+      },
+      {
+        "level": 2,
+        "title": "17.2.1  基本图表在良率分析中的应用",
+        "pdf_page": 447,
+        "printed_page": 431
+      },
+      {
+        "level": 2,
+        "title": "17.2.2  常用的分析方法",
+        "pdf_page": 451,
+        "printed_page": 435
+      },
+      {
+        "level": 2,
+        "title": "17.2.3  系统化的良率分析方法",
+        "pdf_page": 453,
+        "printed_page": 437
+      },
+      {
+        "level": 1,
+        "title": "第18章  测试工程",
+        "pdf_page": 456,
+        "printed_page": 440
+      },
+      {
+        "level": 2,
+        "title": "18.1  测试硬件和程序",
+        "pdf_page": 456,
+        "printed_page": 440
+      },
+      {
+        "level": 2,
+        "title": "18.1.1  测试硬件",
+        "pdf_page": 456,
+        "printed_page": 440
+      },
+      {
+        "level": 2,
+        "title": "18.1.2  测试程序",
+        "pdf_page": 456,
+        "printed_page": 440
+      },
+      {
+        "level": 2,
+        "title": "18.1.3  缺陷、失效和故障",
+        "pdf_page": 457,
+        "printed_page": 441
+      },
+      {
+        "level": 2,
+        "title": "18.2  储存器测试",
+        "pdf_page": 458,
+        "printed_page": 442
+      },
+      {
+        "level": 2,
+        "title": "18.2.1  储存器测试流程",
+        "pdf_page": 458,
+        "printed_page": 442
+      },
+      {
+        "level": 2,
+        "title": "18.2.2  测试图形",
+        "pdf_page": 458,
+        "printed_page": 442
+      },
+      {
+        "level": 2,
+        "title": "18.2.3  故障模型",
+        "pdf_page": 459,
+        "printed_page": 443
+      },
+      {
+        "level": 2,
+        "title": "18.2.4  冗余设计与激光修复",
+        "pdf_page": 459,
+        "printed_page": 443
+      },
+      {
+        "level": 2,
+        "title": "18.2.5  储存器可测性设计",
+        "pdf_page": 460,
+        "printed_page": 444
+      },
+      {
+        "level": 2,
+        "title": "18.2.6  老化与测试",
+        "pdf_page": 461,
+        "printed_page": 445
+      },
+      {
+        "level": 2,
+        "title": "18.3  IDDQ测试",
+        "pdf_page": 461,
+        "printed_page": 445
+      },
+      {
+        "level": 2,
+        "title": "18.3.1  IDDQ测试和失效分析",
+        "pdf_page": 462,
+        "printed_page": 446
+      },
+      {
+        "level": 2,
+        "title": "18.3.2  IDDQ测试与可靠性",
+        "pdf_page": 462,
+        "printed_page": 446
+      },
+      {
+        "level": 2,
+        "title": "18.4  数字逻辑测试",
+        "pdf_page": 462,
+        "printed_page": 446
+      },
+      {
+        "level": 2,
+        "title": "18.5  可测性设计",
+        "pdf_page": 464,
+        "printed_page": 448
+      },
+      {
+        "level": 2,
+        "title": "18.5.1  扫描测试",
+        "pdf_page": 464,
+        "printed_page": 448
+      },
+      {
+        "level": 2,
+        "title": "18.5.2  内建自测试",
+        "pdf_page": 465,
+        "printed_page": 449
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 466,
+        "printed_page": 450
+      },
+      {
+        "level": 1,
+        "title": "第19章  芯片封装",
+        "pdf_page": 467,
+        "printed_page": 451
+      },
+      {
+        "level": 2,
+        "title": "19.1  传统的芯片封装制造工艺",
+        "pdf_page": 467,
+        "printed_page": 451
+      },
+      {
+        "level": 2,
+        "title": "19.1.1  减薄（Back Grind）",
+        "pdf_page": 467,
+        "printed_page": 451
+      },
+      {
+        "level": 2,
+        "title": "19.1.2  贴膜（Wafer Mount）",
+        "pdf_page": 467,
+        "printed_page": 451
+      },
+      {
+        "level": 2,
+        "title": "19.1.3  划片（Wafer Saw）",
+        "pdf_page": 467,
+        "printed_page": 451
+      },
+      {
+        "level": 2,
+        "title": "19.1.4  贴片（Die Attach）",
+        "pdf_page": 469,
+        "printed_page": 453
+      },
+      {
+        "level": 2,
+        "title": "19.1.5  银胶烘焙（Epoxy Curing）",
+        "pdf_page": 470,
+        "printed_page": 454
+      },
+      {
+        "level": 2,
+        "title": "19.1.6  打线键合（Wire Bond）",
+        "pdf_page": 471,
+        "printed_page": 455
+      },
+      {
+        "level": 2,
+        "title": "19.1.7  塑封成型（压模成型，Mold）",
+        "pdf_page": 473,
+        "printed_page": 457
+      },
+      {
+        "level": 2,
+        "title": "19.1.8  塑封后烘焙（Post Mold Curing）",
+        "pdf_page": 475,
+        "printed_page": 459
+      },
+      {
+        "level": 2,
+        "title": "19.1.9  除渣及电镀（Deflash and Plating）",
+        "pdf_page": 475,
+        "printed_page": 459
+      },
+      {
+        "level": 2,
+        "title": "19.1.10  电镀后烘焙（Post Plating Baking）",
+        "pdf_page": 476,
+        "printed_page": 460
+      },
+      {
+        "level": 2,
+        "title": "19.1.11  切筋整脚成型（Trim/From）",
+        "pdf_page": 476,
+        "printed_page": 460
+      },
+      {
+        "level": 2,
+        "title": "19.2  大电流的功率器件需用铝线键合工艺取代金线键合工艺",
+        "pdf_page": 478,
+        "printed_page": 462
+      },
+      {
+        "level": 2,
+        "title": "19.3  QFN的封装与传统封装的不同点",
+        "pdf_page": 479,
+        "printed_page": 463
+      },
+      {
+        "level": 2,
+        "title": "19.4  铜线键合工艺取代金线工艺",
+        "pdf_page": 480,
+        "printed_page": 464
+      },
+      {
+        "level": 2,
+        "title": "19.5  立体封装（3D Package）形式简介",
+        "pdf_page": 480,
+        "printed_page": 464
+      },
+      {
+        "level": 2,
+        "title": "19.5.1  覆晶式封装（Flip-Chip BGA）",
+        "pdf_page": 480,
+        "printed_page": 464
+      },
+      {
+        "level": 2,
+        "title": "19.5.2  堆叠式封装（Stack Multi-chip package）",
+        "pdf_page": 481,
+        "printed_page": 465
+      },
+      {
+        "level": 2,
+        "title": "19.5.3  芯片覆晶式级封装（WLCSP）",
+        "pdf_page": 481,
+        "printed_page": 465
+      },
+      {
+        "level": 2,
+        "title": "19.5.4  芯片级堆叠式封装（TSV package）",
+        "pdf_page": 482,
+        "printed_page": 466
+      },
+      {
+        "level": 2,
+        "title": "参考文献",
+        "pdf_page": 483,
+        "printed_page": 467
+      },
+      {
+        "level": 1,
+        "title": "封底",
+        "pdf_page": 488,
+        "printed_page": 472
+      }
+    ]
+  }
+]

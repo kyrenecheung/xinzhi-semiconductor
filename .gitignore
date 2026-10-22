@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pdf
+*学习记录*.json
+qa/
